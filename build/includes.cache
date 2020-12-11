@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/pedro/Downloads/arduino-1.8.13/hardware/arduino/avr/cores/arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/pedro/Downloads/arduino-1.8.13/hardware/arduino/avr/variants/standard"
+  },
+  {
+    "Sourcefile": "/home/pedro/dev/arduino/build/sketch/blink.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
